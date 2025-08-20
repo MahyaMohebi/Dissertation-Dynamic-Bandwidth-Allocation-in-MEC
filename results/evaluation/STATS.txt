@@ -1,0 +1,6 @@
+Cache=EDGE_OFF: paired t-test PREDICT vs MPC: t=-23.191, p=2.87e-20; Wilcoxon: W=0.000, p=1.86e-09
+Cache=EDGE_ON: paired t-test PREDICT vs MPC: t=-23.083, p=3.26e-20; Wilcoxon: W=0.000, p=1.86e-09
+
+Stratified by group (if available):
+group=Global cache=EDGE_OFF: t=-23.191, p=2.87e-20; W=0.000, p=1.86e-09
+group=Global cache=EDGE_ON: t=-23.083, p=3.26e-20; W=0.000, p=1.86e-09

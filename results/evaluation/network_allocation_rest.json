@@ -1,0 +1,184 @@
+{
+  "runs": [
+    {
+      "trace": "trace_custom_001.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.134107892,
+      "avg_fairness": 0.9977739439016641
+    },
+    {
+      "trace": "trace_custom_002.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.132589716,
+      "avg_fairness": 0.9976867295656728
+    },
+    {
+      "trace": "trace_custom_003.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.13202298933333334,
+      "avg_fairness": 0.997749667478367
+    },
+    {
+      "trace": "trace_custom_004.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.12724813466666665,
+      "avg_fairness": 0.9977577781112027
+    },
+    {
+      "trace": "trace_custom_005.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.11054707333333333,
+      "avg_fairness": 0.9977898006056433
+    },
+    {
+      "trace": "trace_custom_006.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.12593278666666669,
+      "avg_fairness": 0.9978159807108071
+    },
+    {
+      "trace": "trace_custom_007.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.11615560800000002,
+      "avg_fairness": 0.906327529203139
+    },
+    {
+      "trace": "trace_custom_008.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.11495166933333333,
+      "avg_fairness": 0.9078789575653485
+    },
+    {
+      "trace": "trace_custom_009.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.11422153466666667,
+      "avg_fairness": 0.9045820449181493
+    },
+    {
+      "trace": "trace_custom_010.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.12314428933333332,
+      "avg_fairness": 0.9761503519964609
+    },
+    {
+      "trace": "trace_custom_011.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.094933192,
+      "avg_fairness": 0.8946765686091813
+    },
+    {
+      "trace": "trace_custom_012.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.082666304,
+      "avg_fairness": 0.9977768959162048
+    },
+    {
+      "trace": "trace_custom_013.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.08210486800000001,
+      "avg_fairness": 0.9977023144192405
+    },
+    {
+      "trace": "trace_custom_014.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.08260771066666665,
+      "avg_fairness": 0.9977839081995408
+    },
+    {
+      "trace": "trace_custom_015.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.08083022666666667,
+      "avg_fairness": 0.9976650569919927
+    },
+    {
+      "trace": "trace_custom_016.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.07548402133333333,
+      "avg_fairness": 0.9977666085367272
+    },
+    {
+      "trace": "trace_custom_017.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.07834126266666668,
+      "avg_fairness": 0.9978579702356721
+    },
+    {
+      "trace": "trace_custom_018.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.3178530626666667,
+      "avg_fairness": 0.8547511127014786
+    },
+    {
+      "trace": "trace_custom_019.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.32460581466666666,
+      "avg_fairness": 0.9978419119512675
+    },
+    {
+      "trace": "trace_custom_020.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.31234642133333335,
+      "avg_fairness": 0.8414977336845374
+    },
+    {
+      "trace": "trace_custom_021.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.32498947200000006,
+      "avg_fairness": 0.9978121124546291
+    },
+    {
+      "trace": "trace_custom_022.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.3051215322884013,
+      "avg_fairness": 0.9979231493392074
+    },
+    {
+      "trace": "trace_custom_023.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.2524712146666667,
+      "avg_fairness": 0.806582379807923
+    },
+    {
+      "trace": "trace_custom_024.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.25389328399999994,
+      "avg_fairness": 0.8464451490595205
+    },
+    {
+      "trace": "trace_custom_025.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 0.29948612533333335,
+      "avg_fairness": 0.8964184803389177
+    },
+    {
+      "trace": "trace_custom_026.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 19.571250168,
+      "avg_fairness": 0.9362149064387375
+    },
+    {
+      "trace": "trace_custom_027.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 2.645972778666667,
+      "avg_fairness": 0.8198904760752803
+    },
+    {
+      "trace": "trace_custom_028.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 2.099321492,
+      "avg_fairness": 0.9912068266578867
+    },
+    {
+      "trace": "trace_custom_029.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 2.2721598986666667,
+      "avg_fairness": 0.919551507661876
+    },
+    {
+      "trace": "trace_custom_030.csv",
+      "policy": "PF",
+      "avg_capacity_mbps": 1.7140509573333331,
+      "avg_fairness": 0.9944772923077985
+    }
+  ]
+}

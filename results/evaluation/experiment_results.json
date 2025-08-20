@@ -1,0 +1,1622 @@
+[
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_001.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_002.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_003.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_004.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_005.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_006.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_007.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_008.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_009.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_010.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_011.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_012.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_013.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_014.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_015.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_016.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_017.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_018.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_019.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_020.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_021.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_022.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_023.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_024.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_025.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_026.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_027.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_028.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_029.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_030.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_001.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_002.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_003.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_004.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_005.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_006.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_007.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_008.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_009.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_010.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_011.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_012.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_013.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_014.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_015.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_016.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_017.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_018.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_019.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_020.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_021.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_022.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_023.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_024.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_025.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_026.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_027.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_028.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_029.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "BOLA",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_030.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.75,
+    "rebuffer_ratio": 0.0,
+    "qoe": 221.25
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_001.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_002.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_003.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_004.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_005.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_006.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_007.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_008.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_009.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_010.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_011.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_012.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_013.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_014.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_015.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_016.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_017.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_018.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_019.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_020.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_021.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_022.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_023.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_024.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_025.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_026.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 4.871694915254235,
+    "rebuffer_ratio": 2.9205368235374984,
+    "qoe": -2129.8334517742487
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_027.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 1.7440677966101719,
+    "rebuffer_ratio": 0.9254778286474379,
+    "qoe": -654.3638378039759
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_028.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 1.5233898305084763,
+    "rebuffer_ratio": 0.9266063421329456,
+    "qoe": -714.4954837168752
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_029.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.8644067796610193,
+    "rebuffer_ratio": 0.18144647754025478,
+    "qoe": 11.118156502500039
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_030.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 1.0479661016949178,
+    "rebuffer_ratio": 0.4221528702453632,
+    "qoe": -239.46538688952788
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_001.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_002.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_003.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_004.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_005.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_006.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_007.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_008.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_009.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_010.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_011.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_012.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_013.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_014.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_015.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_016.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_017.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_018.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_019.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_020.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_021.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_022.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_023.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_024.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_025.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.2999999999999984,
+    "rebuffer_ratio": 0.0,
+    "qoe": 88.49999999999952
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_026.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 4.871694915254235,
+    "rebuffer_ratio": 2.897260981308273,
+    "qoe": -2102.367957943763
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_027.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 1.7440677966101719,
+    "rebuffer_ratio": 0.8944743841012024,
+    "qoe": -617.7797732394181
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_028.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 1.5233898305084763,
+    "rebuffer_ratio": 0.892030070946505,
+    "qoe": -673.6954837168753
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_029.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 0.8644067796610193,
+    "rebuffer_ratio": 0.15331088431991588,
+    "qoe": 44.318156502499946
+  },
+  {
+    "policy": "MPC",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_030.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 1.0479661016949178,
+    "rebuffer_ratio": 0.37971219227926134,
+    "qoe": -189.38538688952772
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_001.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_002.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.063457627118568,
+    "qoe": -12476.279999999912
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_003.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_004.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_005.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.063457627118568,
+    "qoe": -12476.279999999912
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_006.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_007.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_008.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_009.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.063457627118568,
+    "qoe": -12476.279999999912
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_010.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_011.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_012.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.063457627118568,
+    "qoe": -12476.279999999912
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_013.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_014.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_015.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_016.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.063457627118568,
+    "qoe": -12476.279999999912
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_017.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_018.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_019.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.063457627118568,
+    "qoe": -12476.279999999912
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_020.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_021.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_022.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.063457627118568,
+    "qoe": -12476.279999999912
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_023.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_024.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.961355932203389,
+    "rebuffer_ratio": 12.019932203389754,
+    "qoe": -12430.61999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_025.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.106440677966026,
+    "qoe": -12515.59999999991
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_026.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 4.302730942313017,
+    "qoe": -3318.6225119293604
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_027.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 7.178382929037644,
+    "qoe": -6700.49185626442
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_028.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 7.697127140622755,
+    "qoe": -7312.610025934851
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_029.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.9847457627118645,
+    "rebuffer_ratio": 8.721801828009097,
+    "qoe": -8530.726157050734
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_OFF",
+    "trace": "trace_custom_030.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 8.159644516869665,
+    "qoe": -7858.380529906204
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_001.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.048474576271145,
+    "qoe": -12447.199999999952
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_002.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.047457627118606,
+    "qoe": -12445.999999999955
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_003.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.002779661016909,
+    "qoe": -12404.679999999955
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_004.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.051525423728771,
+    "qoe": -12450.79999999995
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_005.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.613559322033895,
+    "rebuffer_ratio": 11.213220338983012,
+    "qoe": -11598.399999999954
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_006.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.002779661016907,
+    "qoe": -12404.679999999953
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_007.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.044067796610133,
+    "qoe": -12441.999999999956
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_008.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.039661016949118,
+    "qoe": -12436.79999999996
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_009.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.044067796610133,
+    "qoe": -12441.999999999956
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_010.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.007186440677925,
+    "qoe": -12409.879999999954
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_011.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.046101694915215,
+    "qoe": -12444.399999999954
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_012.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.044745762711827,
+    "qoe": -12442.799999999956
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_013.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.003118644067754,
+    "qoe": -12405.079999999953
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_014.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.048474576271147,
+    "qoe": -12447.199999999953
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_015.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.922711864406779,
+    "rebuffer_ratio": 11.877559322033855,
+    "qoe": -12279.719999999948
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_016.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.050847457627075,
+    "qoe": -12449.999999999949
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_017.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.002101694915213,
+    "qoe": -12403.879999999952
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_018.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.050847457627079,
+    "qoe": -12449.999999999953
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_019.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.042033898305048,
+    "qoe": -12439.599999999957
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_020.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.826101694915253,
+    "rebuffer_ratio": 11.675525423728773,
+    "qoe": -12069.819999999954
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_021.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.047796610169451,
+    "qoe": -12446.399999999952
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_022.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.047118644067755,
+    "qoe": -12445.599999999951
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_023.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.048813559321994,
+    "qoe": -12447.599999999953
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_024.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.980677966101695,
+    "rebuffer_ratio": 12.00379661016945,
+    "qoe": -12405.879999999954
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_025.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 12.046101694915215,
+    "qoe": -12444.399999999954
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_026.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 4.314668760910636,
+    "qoe": -3321.3091378745503
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_027.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 7.097440890091096,
+    "qoe": -6604.980250307493
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_028.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.834745762711864,
+    "rebuffer_ratio": 7.330769810564922,
+    "qoe": -6963.408376466608
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_029.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 6.0,
+    "rebuffer_ratio": 8.675981552780904,
+    "qoe": -8467.658232281467
+  },
+  {
+    "policy": "PREDICT",
+    "cache": "EDGE_ON",
+    "trace": "trace_custom_030.csv",
+    "group": "Global",
+    "avg_bitrate_mbps": 5.9822033898305085,
+    "rebuffer_ratio": 8.074036166239937,
+    "qoe": -7767.862676163126
+  }
+]
