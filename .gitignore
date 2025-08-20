@@ -1,0 +1,60 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+*.venv
+*.env
+pip-wheel-metadata/
+C:\kbv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build artifacts (C/C++/CMake)
+build/
+dist/
+cmake-build*/
+src/simulation/build/
+*.vcxproj*
+*.sln
+
+# Data and generated artifacts (potentially large)
+data/**
+!data/README.md
+models/checkpoints/
+models/trained/
+results/**
+results/
+
+# Model/data files
+*.npy
+*.npz
+*.pkl
+*.h5
+*.pb
+*.ckpt*
+*.onnx
+
+# Logs
+logs/
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ns-3 builds (if present)
+ns3*/build*/
+ns-3*/build*/
+
+# Exclude dissertation Methodology and Results markdown files
+dissertation_chapters/Chapter_3_Methodology.md
+dissertation_chapters/Chapter_4_Results_and_Analysis.md
