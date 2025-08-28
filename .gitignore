@@ -1,0 +1,63 @@
+# Ignore common virtualenv and editor files
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore ns-3/build and other build artifacts
+ns3/build/
+**/build/
+*.o
+*.so
+*.dll
+*.exe
+
+# Ignore external runtimes and large prebuilt packages
+external/onnxruntime/
+
+# ML artifacts (checkpoints, model binaries)
+ml/models/checkpoints/
+ml/models/*.h5
+ml/models/final/*.onnx
+ml/models/final/*.onnx.*
+
+# Datasets (don't include raw trace files in git)
+datasets/
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
+
+# Python env files
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.ipynb_checkpoints/
+.env
+.env.*
+
+# Build / results artifacts
+/build/
+dist/
+results/
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Datasets (keep README and helper scripts tracked)
+datasets/*
+!datasets/README.md
+!datasets/ingest_dataset.py
+!datasets/.gitkeep
+
+# Jupyter
+*.checkpoint.ipynb

@@ -1,0 +1,13 @@
+# Single-run config (consumed by scripts; the C++ runner accepts CLI flags)
+trace: "datasets/norway_lte/local/example.csv"
+abr: "BOLA"              # BOLA | MPC | Pensive
+enable_prediction: true
+enable_cache: true
+cache_policy: "lru"      # lru | nocache
+cache_capacity_bytes: 67108864
+segment_duration_s: 2.0
+buffer_target_s: 20.0
+ladder_kbps: [300, 750, 1200, 2500, 4000]
+results_dir: "results/logs"
+run_id: "dev_default"
+onnx_model: "ml/models/final/bandwidth_lstm.onnx"

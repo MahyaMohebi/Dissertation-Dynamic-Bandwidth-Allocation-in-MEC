@@ -1,0 +1,11 @@
+ml/data/processed/local/Video Streaming/Netflix/Netflix6Agg.csv
+ml/data/processed/local/Online Gaming/LOL/LOL5Agg.csv
+ml/data/processed/local/Online Gaming/LOL/LOL3Agg.csv
+ml/data/processed/local/Video Streaming/YouTube/YouTube26Agg.csv
+ml/data/processed/local/Video Streaming/YouTube/YouTube7Agg.csv
+ml/data/processed/global/Online Gaming/LOL/LOL2LondonAgg.csv
+ml/data/processed/local/Video Streaming/Crave/Crave8Agg.csv
+ml/data/processed/local/Video Streaming/PrimeVideo/Prime6Agg.csv
+ml/data/processed/global/Online Gaming/TFT/TFT1JabriyaAgg.csv
+ml/data/processed/local/Video Streaming/PrimeVideo/Prime11Agg.csv
+ml/data/processed/local/Video Streaming/YouTube/YouTube29Agg.csv

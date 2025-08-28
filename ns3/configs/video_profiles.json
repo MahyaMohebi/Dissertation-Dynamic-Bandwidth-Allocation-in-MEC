@@ -1,0 +1,34 @@
+{
+  "default": {
+    "ladder_kbps": [
+      300,
+      750,
+      1200,
+      2500,
+      4000
+    ],
+    "segment_duration_s": 2.0,
+    "buffer_target_s": 20.0
+  },
+  "mobile_low": {
+    "ladder_kbps": [
+      150,
+      300,
+      600,
+      900
+    ],
+    "segment_duration_s": 2.0,
+    "buffer_target_s": 12.0
+  },
+  "mobile_high": {
+    "ladder_kbps": [
+      600,
+      1200,
+      2500,
+      4000,
+      6000
+    ],
+    "segment_duration_s": 2.0,
+    "buffer_target_s": 24.0
+  }
+}
